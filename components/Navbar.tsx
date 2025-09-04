@@ -4,8 +4,6 @@ import Link from "next/link";
 import Button from "./Button";
 
 const Navbar = () => {
-  // adfsdsfer
-  // sdfewrsdfs
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
       <Link href="/">
